@@ -1,10 +1,10 @@
 import React, { useEffect } from "react";
-import Budgetplanner from "assets/Clients/Budgetplanner.png";
-import spacex from "assets/Clients/spacexclone.png";
-import Embrace from "assets/Clients/Embrace.png";
-import Nestinn from "assets/Clients/Nestinn.png";
-import wabisabi from "assets/Clients/wabisabi.png";
-import PricelessTreasures from "assets/Clients/PricelessTreasures.png";
+import Budgetplanner from "../../public/assets/Clients/Budgetplanner.png";
+import spacex from "../../public/assets/Clients/spacexclone.png";
+import Embrace from "../../public/assets/Clients/Embrace.png";
+import Nestinn from "../../public/assets/Clients/Nestinn.png";
+import wabisabi from "../../public/assets/Clients/wabisabi.png";
+import PricelessTreasures from "../../public/assets/Clients/PricelessTreasures.png";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import Blog from "./Blog";
