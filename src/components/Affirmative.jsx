@@ -18,7 +18,7 @@ function Affirmative() {
         Say Hello to Me
       </button>
       </a>
-      <a href="link-to-your-cv.pdf" download>
+      <a href="https://drive.google.com/file/d/1U2k6YE7_4hleCp_crq3UTRb9PjHZkpjB/view?usp=sharing" download>
     <button
       className='text-pink-300 shadow-sm duration-75 ease-in-out hover:bg-white hover:text-black hover:shadow-pink-300 shadow-blue-300 border-2 rounded p-4 w-fit'
       name='Download CV'
