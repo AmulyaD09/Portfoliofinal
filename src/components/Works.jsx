@@ -183,14 +183,14 @@ const dataForWork = [
     description:
       "Django-powered e-commerce platform for handcrafted treasures with streamlined checkout, robust admin tools, and customer feedback analysis",
     image: PricelessTreasures,
-    link: "http://51.20.38.231/",
+    link: "https://github.com/AmulyaD09/PricelessTreasures",
   },
   {
     title: "Nestinn",
     description:
       "A MERN stack project for holiday homes featuring user authentication, advanced filtering, wishlist, and payment integration",
     image: Nestinn,
-    link: "https://holidayhomes-nestinn.vercel.app/",
+    link: "https://github.com/AmulyaD09/Holidayhomes",
     
   },
   {
@@ -198,28 +198,28 @@ const dataForWork = [
     description:
       "Recreated SpaceX's website homepage and inner pages, infusing dynamic features with JavaScript and enhancing user experience through engaging CSS animations",
     image: spacex,
-    link: "https://amulyad09.github.io/spaceX/",
+    link: "https://github.com/AmulyaD09/spaceX",
   },
   {
     title: "Embrace",
     description:
       "A Particle.js web application featuring embedded sticky notes and a clutter-free interface",
     image: Embrace,
-    link: "https://amulyad09.github.io/EmbracingYou/",
+    link: "https://github.com/AmulyaD09/EmbracingYou",
   },
   {
     title: "Budget Planner",
     description:
       "Built using React for easy tracking of monthly expenses and allocation management, providing financial clarity and control",
     image: Budgetplanner,
-    link: "https://budgetallocation-react.vercel.app/",
+    link: "https://github.com/AmulyaD09/BudgetallocationReact",
   },
   {
     title: "Wabisabi",
     description:
       "A Personal Art portfolio featuring an art gallery, a contact section with mail-sending functionality, and captivating CSS animations",
     image: wabisabi,
-    link: "https://amulyad09.github.io/wabisabi/",
+    link: "https://github.com/AmulyaD09/wabisabi",
   },
  
   
